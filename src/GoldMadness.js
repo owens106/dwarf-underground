@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './App.css';
 import Story from './Story';
 
-//import header from './header';
 
 class GoldMadness extends Component {
   render() {
